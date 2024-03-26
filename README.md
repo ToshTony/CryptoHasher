@@ -1,5 +1,6 @@
-HashGenie
-HashGenie is a simple command-line utility written in Go for computing the SHA-256 hash of input strings. This tool provides developers with an easy way to generate SHA-256 hashes for data integrity verification, password hashing, and other cryptographic purposes.
+CryptoHasher
+
+CryptoHasher is a simple command-line utility written in Go for computing the SHA-256 hash of input strings. This tool provides developers with an easy way to generate SHA-256 hashes for data integrity verification, password hashing, and other cryptographic purposes.
 
 Features:
 Calculate the SHA-256 hash of any input string.
